@@ -13,5 +13,5 @@ Run next commands in your terminal:
 | Command | Description |
 |---------|-------------|
 | `npm install` | Install dependencies and launch browser with examples.|
-| `npm start` | Build project to 'dist' folder |
-=======
+| `npm build` | Build production project to 'dist' folder |
+| `npm start` | Build dev-project and start server |
